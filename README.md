@@ -1,3 +1,3 @@
 # VsGitDemo
 VS Git Demo repository
-## This is a sample README
+### This is a sample README
